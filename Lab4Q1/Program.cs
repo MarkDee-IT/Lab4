@@ -11,12 +11,14 @@ namespace Lab4Q1
     {
         static void Main(string[] args)
         {
+            // Test cases
             int age1 = 21;
             int age2 = 18;
             int age3 = 16;
             int age4 = 20;
             int age5 = 25;
 
+            // Check the cases
             bool case1 = CheckAge(age1);
             bool case2 = CheckAge(age2);
             bool case3 = CheckAge(age3);
